@@ -1,0 +1,8 @@
+20220118	23:17:29	67ac2eb1-82a3-4977-9ae9-576bc8ee805c	ReferenceError: whitelist is not defined
+20220118	23:18:01	88db1723-6475-4802-b055-dfc826dce2fa	ReferenceError: whitelist is not defined
+20220118	23:40:33	80d3cb36-80ad-4477-b82e-0ac2f5055f8e	TypeError: authHeader?.startswith is not a function
+20220118	23:43:40	fe3fe0bc-f9ea-48fb-8ed8-4862f28afc8b	ReferenceError: role is not defined
+20220118	23:45:18	16effd39-fb26-4658-b4b6-9d6fea30585c	ReferenceError: role is not defined
+20220118	23:50:43	3f547876-c7ac-451d-bd36-52e409229f50	ReferenceError: role is not defined
+20220118	23:52:43	27692607-1ab8-44ca-8124-1e3ebb90ad40	ReferenceError: roles is not defined
+20220118	23:53:37	7d8aca4c-58ab-4d5e-be96-e2625067e8aa	ReferenceError: roles is not defined
